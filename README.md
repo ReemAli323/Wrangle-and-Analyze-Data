@@ -10,7 +10,7 @@ The dataset that I will be wrangling (and analyzing and visualizing) is the twee
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 
-![dog pic](dog pic.png)
+(dog pic.png)
 
 # What Software Do I Need?
 I used Jupyter Notebook for this project. The following packages (libraries) are the most important libraries used in this project:
